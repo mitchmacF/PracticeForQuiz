@@ -3,7 +3,7 @@ using std::cout;
 
 int main() {
 
-    cout << "Practice for quiz." << endl;
+    cout << "Practice for quiz.";
 
     return 0;
 }
